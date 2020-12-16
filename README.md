@@ -1,0 +1,2 @@
+# haixingzhePayApp
+一个支付应用目前主要用于支付宝当面付的对接
